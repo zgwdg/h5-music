@@ -1,4 +1,4 @@
-# h5-music
+# vue-music-next
 
 ## Project setup
 ```
